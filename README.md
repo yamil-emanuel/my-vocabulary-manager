@@ -1,5 +1,6 @@
 # my-vocabulary-manager
-Selfhosted Google chrome extension for managing your foreing language's vocabulary.
+Self hosted pipeline that allows the user selecting a random foreing word around the web and checkout what's the meaning/definition of it in different languages.
+This project includes a webscraping module + self hosted Django API-REST + Google chrome extension as an UI (and client side).
 
 ## **KEEPITAPI (BACKEND)**
 Deploying the selfhosted Django API-REST server.
